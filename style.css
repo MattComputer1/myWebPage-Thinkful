@@ -1,3 +1,28 @@
+
 body {
-  text-align:centered;
+
+background-color:#96c4c3 ;
+}
+
+h1{
+  padding:50px;
+  color:blue;
+  text-align: center;
+
+font-family: 'Courier New', Courier, monospace;
+}
+p {
+  text-align: center;
+}
+h2 {
+  color:#ddb63b;
+  font-family: "Comic Sans MS", cursive, san-serif;
+text-align: center;  
+}
+
+
+footer{
+text-align: center;
+margin: 25px;
+
 }
