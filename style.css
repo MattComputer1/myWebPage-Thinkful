@@ -1,28 +1,43 @@
-
 body {
 
 background-color:#96c4c3 ;
 }
-
-h1{
-  padding:50px;
+img {
+  height:200px;
+  width: 600px;
+}
+h1 {
+  padding: 10px;
+  
   color:blue;
   text-align: center;
-
-font-family: 'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
+}
+ul {
+  padding: 10px;
 }
 p {
   text-align: center;
 }
 h2 {
+  font-size: 32px;
   color:#ddb63b;
   font-family: "Comic Sans MS", cursive, san-serif;
 text-align: center;  
 }
+p {
+    padding-bottom: 30px;
+}
 
-
-footer{
-text-align: center;
-margin: 25px;
+h3 {
+  font-size: 32px;
+  text-align: center;
 
 }
+footer ol {
+text-align: center;
+  width: 100px;
+  height: 100 px
+  
+}
+
