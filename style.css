@@ -7,7 +7,10 @@ img {
   height:200px;
   width: 600px;
 }
-
+/*Unprdered list is styled and centered*/
+ul {
+  text-align: center;
+}
 h1 {
   /*styling the first text header*/
   padding: 10px;
