@@ -25,6 +25,7 @@ ul {
   /*styling the unordered list*/
   padding: 10px;
   text-align: center;
+  list-style:none;
 }
 
 p {
@@ -58,7 +59,7 @@ a {/*styling the links*/
 
 ol {
 text-align:center;
-}
+list-style:none;
   height: 100 px
   
 }
