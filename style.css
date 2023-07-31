@@ -52,12 +52,15 @@ a {/*styling the links*/
 }
 
 
-footer ol {
+footer  {
   /*styling the footer and the ordered list*/
-text-align: center;
+
   width: 100px;
   height: 100 px
   
+}
+ol {
+text-align:center;
 }
   height: 100 px
   
