@@ -50,10 +50,10 @@ h3 {
   font-size: 32px;
   text-align: center;
 }
-a {/*styling the links*/
+/*styling the links*/
   a:link {color:#31541f; }
   a:visited {color:#31541f}
-}
+
 
 
 
