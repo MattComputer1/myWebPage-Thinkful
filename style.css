@@ -7,7 +7,7 @@ img {
   /*styling the image.*/
   height:200px;
   width: 600px;
-  margin:0px auto;
+  margin: 0 auto;
   
 }
 /*Unprdered list is styled and centered*/
@@ -36,7 +36,7 @@ h2 {
   /*styling the second header*/ 
   font-size: 32px;
   color:#ddb63b;
-  font-family: "Comic Sans MS", cursive, san-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 text-align: center;  
 }
 
@@ -60,7 +60,7 @@ h3 {
 ol {
 text-align: center;
 list-style: none;
-  height: 100 px
+  height: 100px
   
 }
 
