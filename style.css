@@ -1,11 +1,13 @@
 body {
 /*styling the content of the body.*/
 background-color:#96c4c3 ;
+  text-align:center;
 }
 img {
   /*styling the image.*/
   height:200px;
   width: 600px;
+  
 }
 /*Unprdered list is styled and centered*/
 
