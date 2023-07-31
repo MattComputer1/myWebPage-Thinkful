@@ -1,42 +1,62 @@
 body {
-
+/*styling the content of the body.*/
 background-color:#96c4c3 ;
 }
 img {
+  /*styling the image.*/
   height:200px;
   width: 600px;
 }
+
 h1 {
+  /*styling the first text header*/
   padding: 10px;
   
   color:blue;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
+
 ul {
+  /*styling the unordered list*/
   padding: 10px;
 }
+
 p {
   text-align: center;
 }
+
 h2 {
+  /*styling the second header*/ 
   font-size: 32px;
   color:#ddb63b;
   font-family: "Comic Sans MS", cursive, san-serif;
 text-align: center;  
 }
+
 p {
     padding-bottom: 30px;
 }
 
 h3 {
+  /*styling the third header*/
+  color: #31541f;
   font-size: 32px;
   text-align: center;
-
 }
+a {/*styling the links*/
+  a:link {color:#31541f; }
+  a:visited {color:#31541f}
+}
+
+
 footer ol {
+  /*styling the footer and the ordered list*/
 text-align: center;
   width: 100px;
+  height: 100 px
+  
+}
   height: 100 px
   
 }
