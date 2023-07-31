@@ -7,7 +7,7 @@ img {
   /*styling the image.*/
   height:200px;
   width: 600px;
-  text-align:center;
+  margin:0px auto;
   
 }
 /*Unprdered list is styled and centered*/
