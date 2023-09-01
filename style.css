@@ -69,6 +69,5 @@ text-align: center;\
 }
 
 ul, ol {
-  list-style: inside; /* This will make the bullet points and numbers appear inside the list items */
   padding-left: 0; /* Remove the default left padding of the lists */
 }
