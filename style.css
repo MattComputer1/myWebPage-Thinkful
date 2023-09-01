@@ -69,5 +69,7 @@ text-align: center;
 }
 
 ul, ol {
+list-style-position: inside;
+
   padding-left: 0; /* Remove the default left padding of the lists */
 }
